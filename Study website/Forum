@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html>
+   <head>
+      <title>Study buddy</title>
+      <link rel = "stylesheet" href="style.css">
+      <link href="https://fonts.googleapis.com/css?family=Big+Shoulders+Display&display=swap" rel="stylesheet">
+   </head>
+   <body>
+      <h1>Forum</h1>
+      <div><p1>Forum for CMPE 131:</p1></div>
+      <div class= "box1">
+      <h2>Question tab</h2>
+      </div>
+      <div class= "box2">
+          <h3>
+              Find a study group
+          </h3>
+      </div>
+     <div class="box3">
+      <h4>Information share</h4>
+     </div>
+   </body>	
+</html>
